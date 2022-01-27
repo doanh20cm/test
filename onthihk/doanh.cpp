@@ -101,6 +101,7 @@ int main()
 		chencuoi(l,p);
 	}
 
+	cout << "Day la dong code dc them moi";
 	cout<<"\n======= Thong tin " << n << " hang hoa =======\n";
 	duyet(l);
 }
